@@ -1,5 +1,5 @@
 # 👋 I’m Daniel, nice to meet you
-I am a mechanical engineer with passion for coding, and about data! I love looking at data, manipulating it, and figuring out interesting insights about it.
+I am a mechanical engineer with a passion for coding, and about data! I love looking at data, manipulating it, and figuring out interesting insights about it.
 
 I enjoy automating the boring stuff that makes me go :sleeping:, especially if it can add value to the projects i'm working on.
 I try and make everything I code avaliable to everyone so feel free to use any of the code that I uploaded (just don't forget to give credit :wink:).

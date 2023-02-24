@@ -5,9 +5,6 @@ I enjoy automating the boring stuff that makes me go :sleeping:, especially if i
 I try and make everything I code accessible to everyone so feel free to use any of the code that I upload (just don't forget to give credit :wink:).
 
 ## Currently working on...
-Currently I am working on "Reddit emotions" which is an interesting web app that gives insight into what reddit likes and doesn't like. The coding is mostly done in python and django as a web framework but also includes frontend coding.
-I try to make the app as streamlined and seamless as possible, hopefully people will enjoy it, go check it out!* :smile:	
-
-*The app will be deployed soon, stay tuned!
+Currently I am working on various data science projects. I find data fascinating and extracting useful information from it is a  challenging but rewarding task. I really enjoy creating different predictive models and try and maximize their predictive capibilites on unseen data.
 
 #### Don't hesitate to contact me for any questions / suggestions / complaints, I would love to hear from you.
